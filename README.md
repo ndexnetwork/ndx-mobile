@@ -1,3 +1,4 @@
+### NDX Mobile Wallet 
 ----
 # nDEX Network | A Blockchain Business Development Platform #
 [![Docker Stars](https://img.shields.io/docker/stars/ndexnetwork/ndex.svg)](https://hub.docker.com/r/ndexnetwork/ndex?style=flat)
@@ -35,38 +36,7 @@ docker run --name ndex -d -p 80:6868 ndexnetwork/ndex
 [ No deps no fixer!!!]
 ```
 
-### Open JDK works FINE!!
-----
-### Run it! ##
 
-  - click on the NDX icon, or start from the command line:
-  - linux: `./start.sh`
-  - Window: `run.bat`
-
-  - wait for the JavaFX wallet window to open
-  - on platforms without JavaFX, open http://localhost:6868/ in a browser
-
-----
-### Compile it! ##
-
-  - if necessary with: `./compile.sh`
-  - you need jdk-8 as well [Use openjdk (Linux users)]
-
-----
-## Troubleshooting the NDX Server ##
-
-  - How to Stop the NDX Server?
-    - click on NDX Stop icon, or run `./stop.sh`
-    - or if started from command line, ctrl+c or close the console window
-
-  - UI Errors or Stacktraces?
-    - report on Github
-
-  - Permissions Denied?
-    - no spaces and only latin characters in the path to the NRS installation directory
-    - known jetty issue
-
-----
 ### Further Reading ##
 
   - in this repository:
