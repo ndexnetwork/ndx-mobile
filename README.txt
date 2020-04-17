@@ -1,16 +1,17 @@
 ### NDX Mobile Wallet 
+----
 # nDEX Network | A Blockchain Business Development Platform #
 [![Docker Stars](https://img.shields.io/docker/stars/ndexnetwork/ndex.svg)](https://hub.docker.com/r/ndexnetwork/ndex?style=flat)
 [![Docker Pulls](https://img.shields.io/docker/pulls/ndexnetwork/ndex.svg)](https://hub.docker.com/r/ndexnetwork/ndex?style=flat)
 ![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/ndexnetwork/ndex?label=nDEX%20%7C%20docker%20build&style=flat)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/ndexnetwork/ndex?style=flat)
 
-
+----
 ## What is NDX? ##
 NDX is a cryptocurrency to make the world a better place.
 See [LICENSE](https://raw.githubusercontent.com/ndexnetwork/nDEX/master/.github/LICENSE)
 
-
+----
 
 ### PORTS AND DETAILS
 --------------------
@@ -44,7 +45,7 @@ docker run --name ndex -d -p 80:6868 ndexnetwork/ndex
     - OPERATORS-GUIDE.md
     - In the doc folder
 
-
+----
 
 ```
                                Copyright © 2020 nDEX Network Ltd.
